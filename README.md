@@ -1,5 +1,26 @@
 # About Me:
-I’m currently working on<br>Building interactive dashboards and performing data analysis using SQL, Python, Excel, Tableau, and Power BI to uncover meaningful business insights.<br>I’m looking to collaborate on<br>Data analytics, dashboard development, and real-time web applications — especially projects that turn raw data into actionable insights.<br>I’m looking for help with<br>Learning advanced machine learning techniques and improving large-scale data processing workflows.<br>I’m currently learning<br>Applied Data Science, data storytelling, and performance-driven analytics as part of my MSc program.<br>Ask me about<br>SQL, Python, Power BI, Tableau, data visualization, dashboard design, and real-time collaboration tools.<br>Fun fact<br>I enjoy turning messy datasets into clear visual stories it feels like solving a puzzle every time.
+<h3><strong>I’m currently working on</strong></h3>
+Building interactive dashboards and performing data analysis using SQL, Python, Excel, Tableau, and Power BI to uncover meaningful business insights.
+<br><br>
+
+<h3><strong>I’m looking to collaborate on</strong></h3>
+Data analytics, dashboard development, and real-time web applications — especially projects that turn raw data into actionable insights.
+<br><br>
+
+<h3><strong>I’m looking for help with</strong></h3>
+Learning advanced machine learning techniques and improving large-scale data processing workflows.
+<br><br>
+
+<h3><strong>I’m currently learning</strong></h3>
+Applied Data Science, data storytelling, and performance-driven analytics as part of my MSc program.
+<br><br>
+
+<h3><strong>Ask me about</strong></h3>
+SQL, Python, Power BI, Tableau, data visualization, dashboard design, and real-time collaboration tools.
+<br><br>
+
+<h3><strong>Fun fact</strong></h3>
+I enjoy turning messy datasets into clear visual stories — it feels like solving a puzzle every time.
 
 
 ## 🌐 Socials:
