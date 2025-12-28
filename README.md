@@ -20,7 +20,7 @@ SQL, Python, Power BI, Tableau, data visualization, dashboard design, and real-t
 <br><br>
 
 <h3><strong>Fun fact</strong></h3>
-I enjoy turning messy datasets into clear visual stories — it feels like solving a puzzle every time.
+I believe good data visuals should “speak”. so I spend extra time making dashboards intuitive and meaningful.
 
 
 ## 🌐 Socials:
