@@ -34,3 +34,5 @@ I believe good data visuals should “speak”. so I spend extra time making das
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-00599C?style=for-the-badge&logo=proto.io&logoColor=white)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-4B8BBE?style=for-the-badge)
